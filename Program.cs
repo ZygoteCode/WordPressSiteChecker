@@ -11,7 +11,7 @@ public class Program
 
     public static void Main()
     {
-        Console.Title = "WordPressSiteChecker | Made by https://github.com/GabryB03/";
+        Console.Title = "WordPressSiteChecker | Made by https://github.com/ZygoteCode/";
 
         ServicePointManager.DefaultConnectionLimit = int.MaxValue;
         ServicePointManager.MaxServicePoints = int.MaxValue;
